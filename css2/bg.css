@@ -1,0 +1,12 @@
+body {
+
+	font-face: cocomat;
+	background-image: url('../images/cool.jpg');
+}
+
+hr {
+	color:#ffffff;
+	height: 2;
+	 border: 2px dotted grey;
+	 margin: 0.1em auto; 
+}
